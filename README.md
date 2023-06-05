@@ -124,6 +124,9 @@ Execute the program
 # OUPUT
 ![Timetable](https://user-images.githubusercontent.com/121117266/236893009-a9fe8324-e608-4d0b-80f6-b9799bb31223.png)
 
+# Server Output
+![Ex-3 Server output](https://github.com/Aakashraj04/timetable/assets/121117266/41e17273-da02-422a-b1ac-440d67df5eb0)
+
 # RESULT
 Timetable has created Successfully.
 
