@@ -121,7 +121,7 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+# OUTPUT
 ![Timetable](https://user-images.githubusercontent.com/121117266/236893009-a9fe8324-e608-4d0b-80f6-b9799bb31223.png)
 
 # Server Output
